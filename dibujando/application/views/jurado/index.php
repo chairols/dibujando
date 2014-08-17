@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Dibijando Pasiones | Concurso de dibujo</title>
+	<title>Dibujando Pasiones | Concurso de dibujo</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
@@ -27,7 +27,7 @@
 			</nav>
 			<nav class="mainmenu">
 				<ul>
-					<li ><a href="./">Inicio</a></li>					
+					<li ><a href="/">Inicio</a></li>					
 					<li><a href="/registrate/">Registrate</a></li>
 					<li><a href="/login/">Ingresa</a></li>
 					<li class="current-menu-item"><a href="/jurado/">Jurado</a></li>					

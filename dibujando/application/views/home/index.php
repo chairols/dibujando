@@ -1,172 +1,183 @@
-<!doctype html>
+<!DOCTYPE html> 
 <html>
 <head>
-<meta charset="utf-8">
-<title>XV Concuso Gente de mi ciudad | Banco Ciudad</title>
-<link href="http://gentedemiciudad.com/assets/imagenes/miniatura.jpg" rel="image_src" />
-<link href="/assets/css/admin.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-</script>
+	<meta charset="UTF-8">
+	<title>Dibujando Pasiones | Concurso de dibujo</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link href='http://fonts.googleapis.com/css?family=Signika:600,400,300' rel='stylesheet' type='text/css'>
+        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="/assets/css/style-headers.css" rel="stylesheet" type="text/css" media="screen">
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<link href="style-ie.css" rel="stylesheet" type="text/css" media="screen">
+	<![endif]-->
 </head>
 
-<body onLoad="MM_preloadImages('/assets/imagenes/aprobadas2.jpg','/assets/imagenes/concurso2.png','/assets/imagenes/concursosanteriores2.png','/assets/imagenes/comoparticipar2.png','/assets/imagenes/eljurado2.png','/assets/imagenes/premios2.png','/assets/imagenes/registrate2.png','/assets/imagenes//ingresar2.png','/assets/imagenes/bases2.png')">
-<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="/assets/imagenes/header.jpg" width="950" height="150"  alt=""/></td>
-  </tr>
-  <tr>
-    <td class="fondo1" ><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tr>
-        <td width="202"><a href="/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','/assets/imagenes/concurso2.png',1)"><img src="/assets/imagenes/concurso1.png" alt="" width="184" height="31" id="Image1"></a></td>
-        <td class="fondoblanco interiortabla2" width="701" rowspan="20"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tr>
-            <td class="bienvenido"><strong>Bienvenido al XV concuso Gente de mi Ciudad</strong></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td><p>El Banco Ciudad se   enorgullece de presentar la XV Edición del concurso fotográfico &ldquo;Gente   de mi Ciudad&rdquo;. Este evento representa una de las actividades culturales   de mayor trascendencia no solo para la Institución sino para quienes   durante quince años acompañaron esta propuesta.</p>
-              <p> Con   la permanente intención de generar mejoras y actualizaciones en favor   de la transparencia, este año se propone un nuevo portal para la carga   de las fotografías, que auguramos será de gran facilidad de navegación .</p>
-              <ul>
-                <li><strong>Entrega de premios:</strong> 5 de diciembre<br>
-                  <br>
-                </li>
-                <li><strong> Exposición de las obras ganadoras :</strong>  del 5 de diciembre al 2 de febrero del 2015<br>
-                  <br>
-                </li>
-                <li><strong>Lugar:</strong> Centro Cultural Recoleta, sala 12</li>
-              </ul>              </td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-        </table></td>
-      </tr>
-      <tr>
-        <td><a href="/como-participar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','/assets/imagenes/comoparticipar2.png',1)"><img src="/assets/imagenes/comoparticipar1.png" alt="" width="184" height="31" id="Image5" border="0"></a></td>
-      </tr>
-      <tr>
-        <td><a href="/usuarios/registrar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','/assets/imagenes/registrate2.png',1)"><img src="/assets/imagenes/registrate1.png" alt="" width="184" height="31" id="Image8" border="0"></a></td>
-      </tr>
-      <tr>
-        <td><a href="/usuarios/login/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','/assets/imagenes//ingresar2.png',1)"><img src="/assets/imagenes/ingresar1.png" alt="" width="184" height="31" id="Image9" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/bases_y_condiciones/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','/assets/imagenes/bases2.png',1)"><img src="/assets/imagenes/bases1.png" alt="" width="184" height="31" id="Image10"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/premios/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','/assets/imagenes/premios2.png',1)"><img src="/assets/imagenes/premios1.png" alt="" width="184" height="31" id="Image7" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/jurado/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','/assets/imagenes/eljurado2.png',1)"><img src="/assets/imagenes/eljurado1.png" alt="" width="184" height="31" id="Image6" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/ediciones_anteriores/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','/assets/imagenes/concursosanteriores2.png',1)"><img src="/assets/imagenes/concursosanteriores1.png" alt="" width="184" height="31" id="Image4" border="0"></a></td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </table></td>
-  </tr>
-  <tr>
-    <td bgcolor="#34499E"><img src="/assets/imagenes/footer.jpg" width="950" height="60"  alt=""/></td>
-  </tr>
-</table>
+<body class="home boxed shadow p09"><div class="root">
+	<header class="h5 sticky-enabled no-topbar">
+	  <section class="main-header">
+              <p class="title"><a href="/"><img src="/assets/images/temp/logo.png" alt="MultiPurpose" width="280" height="45"></a> </p>
+			<nav class="social">
+			  <ul>
+					<li><a href="#" class="facebook">Facebook</a></li>
+				<li><a href="#" class="twitter">Twitter</a></li>
+				</ul>
+			</nav>
+			<nav class="mainmenu">
+				<ul>
+					<li class="current-menu-item"><a href="/">Inicio</a></li>					
+					<li><a href="#">Registrate</a></li>
+					<li><a href="#">Ingresa</a></li>
+					<li><a href="/jurado/">Jurado</a></li>					
+					<li><a href="/premios/">Premios</a></li>
+					<li><a href="./portfolio-multiple.html">Dibujos Participantes</a></li>
+				</ul>
+				
+			</nav>
+			
+			<div class="clear"></div>
+		</section>
+	</header>
+
+	<section class="slider12 p05">
+		<div class="slider">
+		<article>
+                    <div class="img"><img src="/assets/images/temp/104.jpg" alt=""></div>
+			<div class="text">
+				<h3>Modern and fresh, clean and premium</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>
+		<article>
+                    <div class="img"><img src="/assets/images/temp/slider9-image02.jpg" alt=""></div>
+			<div class="text">
+				<h3>Some other title</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>
+		<article>
+			<div class="img"><div class="video"><iframe src="http://player.vimeo.com/video/51033950" width="610" height="360"></iframe></div></div>
+			<div class="text">
+				<h3>Suitable for most businesses</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>
+		<article>
+                    <div class="img"><img src="/assets/images/temp/slider9-image03.jpg" alt=""></div>
+			<div class="text">
+				<h3>Highly customizable</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>
+		<article>
+                    <div class="img"><img src="/assets/images/temp/slider9-image04.jpg" alt=""></div>
+			<div class="text">
+				<h3>Responsive and good looking</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>
+		<article>
+                    <div class="img"><img src="/assets/images/temp/slider9-image05.jpg" alt=""></div>
+			<div class="text">
+				<h3>Responsive and good looking</h3>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et agnis dis parturient montes</p>
+				<p><a href="#">Learn more</a></p>
+			</div>
+		</article>		
+		</div>
+		<div class="control-bg"></div>
+	</section>
+	
+
+	<section class="content">
+	  <section class="columns with-icons">
+		  <article class="col3">
+                      <h3><img src="/assets/images/icons/title-icon1.png" alt=""><a href="#">Pellenteque Habian</a></h3>
+				<p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
+				<p class="more"><a href="#">Learn more</a></p>
+		</article><article class="col3">
+                    <h3><img src="/assets/images/icons/title-icon2.png" alt=""><a href="#">Ninbo Eget</a></h3>
+				<p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
+				<p class="more"><a href="#">Learn more</a></p>
+			</article><article class="col3">
+                            <h3><img src="/assets/images/icons/title-icon3.png" alt=""><a href="#">Morbi a Sapien</a></h3>
+				<p>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
+				<p class="more"><a href="#">Learn more</a></p>
+			</article>
+	  </section>
+		<section class="columns portfolio">
+			<p class="more"><a href="#">Ver todos los dibujos</a></p>
+			<h2><span>Nuevos dibujos participantes</span></h2>
+			<article class="col4 website">
+                            <div class="img"><img src="/assets/images/temp/12.jpg" alt="">
+					<div>
+						<ul>
+                                                    <li><a href="/assets/images/temp/lightbox-example-big-image.png" class="action view">View</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</article><article class="col4 illustration website">
+                            <div class="img"><img src="/assets/images/temp/13.jpg" alt="">
+					<div>
+						<ul>
+                                                    <li><a href="/assets/images/temp/lightbox-example-big-image.png" class="action view">View</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</article><article class="col4 video photography">
+                            <div class="img"><img src="/assets/images/temp/14.jpg" alt="">
+					<div>
+						<ul>
+                                                    <li><a href="/assets/images/temp/lightbox-example-big-image.png" class="action view">View</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</article><article class="col4 photography">
+                            <div class="img"><img src="/assets/images/temp/15.jpg" alt="">
+					<div>
+						<ul>
+                                                    <li><a href="/assets/images/temp/lightbox-example-big-image.png" class="action view">View</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</article>
+		</section>
+		<a href="#top" class="go-top">Go to top of page</a>
+	</section>
+
+	<footer>
+		<section class="widgets"><article>
+				<h3><span>Fundacion Banco Ciudad</span></h3>
+				<p>LOGO</p>
+			</article><article class="widget_links">
+				<h3><span>Hermeregildo Sabat</span></h3>
+				<ul>
+				  <li>LOGO</li>
+				</ul>
+			</article>
+		</section>
+		<section class="bottom">
+			<div align="right">Desarrollado por <a href="http://www.eclypsedesign.com" target="_blank">Eclypse | Cloud Web Services </a></div>
+			<nav class="social"></nav>
+		</section>
+	</footer></div>
+
+    <script type="text/javascript" src="/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="/assets/js/scripts.js"></script>
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="js/ie.js"></script>
+	<![endif]-->
 </body>
+
 </html>
