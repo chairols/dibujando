@@ -28,8 +28,8 @@
 			<nav class="mainmenu">
 				<ul>
 					<li ><a href="/">Inicio</a></li>					
-					<li><a href="/registrate/">Registrate</a></li>
-					<li><a href="/login/">Ingresa</a></li>
+					<li><a href="/usuarios/registrar/">Registrate</a></li>
+					<li><a href="/usuarios/login/">Ingresa</a></li>
 					<li class="current-menu-item"><a href="/jurado/">Jurado</a></li>					
 					<li><a href="/premios/">Premios</a></li>
 					<li><a href="/dibujos-participantes/">Dibujos Participantes</a></li>
