@@ -627,5 +627,9 @@ Su foto con el título:'.$this->input->post('nombre').' ID ('.$id.') ha sido sub
         
         $this->load->view('fotos/votacion', $data);
     }
+    
+    public function ranking() {
+        $this->load->view('fotos/ranking');
+    }
 }
 ?>

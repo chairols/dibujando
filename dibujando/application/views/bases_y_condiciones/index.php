@@ -1,461 +1,90 @@
-<!doctype html>
+<!DOCTYPE html> 
 <html>
 <head>
-<meta charset="utf-8">
-<title>XV Concuso Gente de mi ciudad | Banco Ciudad</title>
-<link href="/assets/css/admin.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-</script>
+	<meta charset="UTF-8">
+	<title>CONCURSO DE DIBUJO FUNDACION BANCO CIUDAD</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link href='http://fonts.googleapis.com/css?family=Signika:600,400,300' rel='stylesheet' type='text/css'>
+        <link href="/assets/style.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="/assets/style-headers.css" rel="stylesheet" type="text/css" media="screen">
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<link href="style-ie.css" rel="stylesheet" type="text/css" media="screen">
+	<![endif]-->
 </head>
 
-<body onLoad="MM_preloadImages('/assets/imagenes/aprobadas2.jpg','/assets/imagenes/concurso2.png','/assets/imagenes/concursosanteriores2.png','/assets/imagenes/comoparticipar2.png','/assets/imagenes/eljurado2.png','/assets/imagenes/premios2.png','/assets/imagenes/registrate2.png','/assets/imagenes//ingresar2.png','/assets/imagenes/bases2.png')">
-<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="/assets/imagenes/header.jpg" width="950" height="150"  alt=""/></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" ><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tr>
-            <td>&nbsp;</td>
-          <td width="701" rowspan="114"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" class="interiortabla2">
-              <tr>
-                <td><p align="center"><strong>Bases del XV CONCURSO FOTOGRAFICO <br>
-                  &ldquo;Gente de mi Ciudad&rdquo;<br>
-                  BANCO CIUDAD  AÑO 2014</strong><strong></strong></p>
-                  <p align="justify">El Banco Ciudad convoca al <strong>XV  Concurso Fotográfico Banco Ciudad</strong> destinado a profesionales y/o aficionados de la fotografía  artística. El tema que comprende este concurso es el de &ldquo;Gente de mi Ciudad&rdquo;.  Esta convocatoria está abierta a todos los fotógrafos aficionados y  profesionales residentes en el país, así como también a  cooperativas y/o  asociaciones  civiles cuyo objeto sea la producción fotográfica  pudiendo presentar hasta dos fotos en la  inscripción.  La inscripción en el Premio  es totalmente gratuita y tiene por objetivo estimular la creatividad, propiciar las producciones  artísticas independientes, divulgar aspectos y costumbres sociales y promover  la difusión y conservación del patrimonio cultural de nuestra ciudad. </p>
-                  <p align="justify"><u><strong>BASES DE PARTICIPACION</strong></u><strong>: </strong></p>
-                  <p align="justify"><strong>1. El tema del  presente concurso es &ldquo;Gente de mi Ciudad&rdquo;. Las tomas deben ser específicas de  la Ciudad de Buenos Aires y debe haber al menos una persona en la/s  fotografía/s. Las fotografías deben ineludiblemente dar cuenta del espacio  geográfico (barrio, localidad, espacio público) donde fue efectuada la toma.</strong></p>
-                  <p align="justify"><strong>2.</strong> El concurso  fotográfico es abierto a fotógrafos profesionales y/o aficionados, argentinos o  residentes en el país, y <strong>mayores de 18 años</strong>. De igual manera podrán participar cooperativas y/o asociaciones  civiles cuyo objeto sea la producción fotográfica. Las  fotografías seleccionadas serán presentadas en una muestra que se realizará en  el Centro Cultural Recoleta, en la Sala 12 desde el  02 de diciembre de 2014  al 2 de febrero de 2015. </p>
-                  <p align="justify"><strong>2.1</strong> Se  comprende por cooperativas, aquellas instituciones u organizaciones inscriptas  según lo establecido por la Ley de Cooperativas. Es indefectible el  cumplimiento de los requisitos formales allí expresados para realizar la  inscripción.</p>
-                  <p align="justify"><strong>2.2</strong> En tanto, las Asociaciones  Civiles son  entidades que deberán acreditar su personería jurídica mediante la presentación  del estatuto debidamente inscripto en la Inspección General de Justicia. De  tratarse de una simple asociación, es decir que no cuente con autorización  estatal para funcionar, deberá acreditar su constitución y designación de  autoridades mediante escritura pública o instrumento privado certificado por  escribano público.</p>
-                  <p align="justify"><strong>3.</strong> Para poder  participar del concurso se deberán ingresar las fotografías, en una primera  instancia, únicamente vía web. (Ver apartado Modo de Presentación)</p>
-                  <p align="justify"><strong>4.</strong> No se  aceptarán reproducciones ni obras que muestren directamente leyendas o marcas  que puedan interpretarse -a juicio del jurado- como publicidad. Tampoco serán  tomadas en cuenta fotografías que hayan sido acreedoras de distinciones (premios)  en otros certámenes, y todas deberán responder al tema central del presente  concurso.</p>
-                  <p align="justify"><strong>5.</strong> No podrán participar en este concurso  personal del Banco Ciudad ni sus familiares hasta segundo grado de parentesco.  Esta restricción también es  aplicable a los miembros del jurado. No se cobrará derecho de inscripción.</p>
-                  <p align="justify"><strong>6.</strong> Se  admitirán fotografías tomadas a partir de medios analógicos o digitales.<strong></strong></p>
-                  <p align="justify"><strong>7.</strong> El proceso  de elección de las obras constará de 2 etapas:<br>
-                    a) En la <strong>1°  etapa</strong> el jurado realizará una preselección de las obras <strong>cargadas vía web. </strong><br>
-                  b) Durante la <strong>2°  etapa</strong> se realizará el juzgamiento de las fotografías preseleccionadas, <strong>en formato papel,</strong> hasta alcanzar el  número de premios y menciones previsto (se contempla la posibilidad de que  algún premio quede vacante, si el jurado lo determinase por alguna razón). </p>
-                  <p align="justify"><strong>8.</strong> Los  participantes preseleccionados serán comunicados vía correo electrónico y  figurarán en la web <a href="http://www.gentedemiciudad.com" target="_blank">http://www.gentedemiciudad.com</a> y en <a href="http://www.bancociudad.com.ar" target="_blank">www.bancociudad.com.ar</a>  y deberán  entregar las obras impresas en papel según lo indicado en el punto 16 del  apartado –Modo de Presentación -, de acuerdo con el calendario de  participación.</p>
-                  <p align="justify"><strong>9.</strong> Una vez  realizado el juzgamiento de las obras por parte del jurado, el público tendrá  la posibilidad de votar la designación de la Mención &ldquo;Gente de mi Ciudad&rdquo; entre  las obras preseleccionadas, a través de la página web del concurso <a href="http://www.gentedemiciudad.com" target="_blank">http://www.gentedemiciudad.com</a> dentro de  las fechas estipuladas en el calendario.</p>
-                  <p align="justify"><strong>10.</strong> El jurado  estará integrado por un funcionario del Banco Ciudad y profesionales y artistas  del área seleccionados para el fin.</p>
-                  <p align="justify"><strong>JURADO 2014:</strong></p>
-                  <p align="justify">Jorge González Perrin, <em>artista plástico</em><br>
-                    Marcela Heiss, <em>Proyectos Institucionales, Banco Ciudad</em><br>
-                    Gabriela Messina, <em>artista visual</em><br>
-                    Guillermo Ueno, <em>artista visual</em><br>
-                  Marcos Zimmermann, <em>fotógrafo</em></p>
-                  <p align="justify">                                                                                               <br>
-                  <strong>11.</strong> Se  entregarán los siguientes premios:</p>
-                  <p align="justify">1º Premio: ...................................................................... $  25.000.- <br>
-                    2º Premio: …………..................……………………….....……...... $  9.000.-<br>
-                    3º Premio: ......................................................................  $ 8.000. -<br>
-                    4º Premio:  ...................................................................... $  7.000.-<br>
-                  5º Premio:  ...................................................................... $  6.000.-</p>
-                  <p align="justify">Además: Mención &ldquo;Gente de mi Ciudad&rdquo;, 10 menciones especiales y 25  menciones.</p>
-                  <p align="justify"><strong>11.1</strong> En el caso  de que el premio se adjudique a una cooperativa y/o asociación, el importe  se acreditará en una caja de  ahorros que la entidad deberá abrir en el Banco a nombre y a la orden del  representante legal de la entidad. </p>
-                  <p align="justify"><strong>12.</strong> Las cinco  obras premiadas quedarán en poder del Banco Ciudad y pasarán a integrar el  patrimonio permanente de la Institución. Todas las obras seleccionadas -premios  y menciones- serán exhibidas en el Centro Cultural Recoleta, en la fecha  prevista. </p>
-                  <p align="justify"><strong>13.</strong> Tanto las  obras que se integran al Patrimonio del Banco Ciudad como las menciones podrán  ser utilizadas en las actividades y proyectos de promoción cultural, tales como  reproducción, impresión, publicación, exposición y toda otra difusión que el  Banco Ciudad considere pertinente, mencionándose oportunamente el nombre del  autor y el título de la obra, sin que esto suponga retribución y/o compensación  económica alguna. No obstante los autores conservan sus Derechos de Propiedad  Intelectual de acuerdo con la ley 11.723   y se responsabilizan del cumplimiento de las disposiciones legales en  materia de dicha ley  y del derecho a la  propia imagen, siendo responsables por que la difusión, reproducción o edición  de la obra en el marco del presente concurso no lesione derecho alguno de  terceros.</p>
-                  <p align="justify"><strong>14.</strong> El Jurado  se reserva el derecho de explicar los motivos que generaron las decisiones  tomadas, las cuales son de carácter confidencial. No se darán bajo ninguna  circunstancia motivos o explicaciones verbales o escritas con respecto a las  decisiones adoptadas por dicho equipo.</p>
-                  <p align="justify"><strong><u>MODO DE  PRESENTACIÓN</u></strong></p>
-                  <p align="justify"><strong>15.</strong> Para la <strong>1° instancia de selección</strong> cada  participante individual o colectivo deberá ingresar únicamente vía web <a href="http://www.gentedemiciudad.com" target="_blank">http://www.gentedemiciudad.com</a> &nbsp;<strong>hasta  (2) obras en color o blanco y negro</strong>, completando toda la información  requerida. Deberán presentarse en <strong>formato</strong> <strong>jpg,</strong> en <strong>72 dpi </strong>de  resolución, <strong>con un tamaño no mayor de </strong>1600 x 1200 pixeles y con un peso  que no supere los <strong>2 MB.</strong> Asimismo, las tomas no deberán superar los dos  años de antigüedad.</p>
-                  <p align="justify"><strong>16.</strong> Finalizada  la carga y una vez aceptados todos los términos y condiciones, cada inscripto  recibirá una notificación vía mail con su <strong>N°  de participación. </strong>El sistema impedirá la carga de aquellas fotografías que  no cumplan con todos los parámetros antes mencionados.</p>
-                  <p align="justify"><strong>17.</strong> Para la <strong>2° instancia,</strong> las obras que hayan sido  preseleccionadas se presentarán en <strong>soporte  papel y digital</strong> (cd o dvd), con <strong>300  dpi</strong> de resolución y una medida mínima aproximada a <strong>20</strong> <strong> x 30 cm. y máxima de 100 x 100 cm.  Y   todas las variables posibles comprendidas dentro de esas medidas. </strong>(Fechas  de entrega según calendario)</p>
-                  <p align="justify"><strong>18.</strong> <strong>Deberá entregarse un sobre cerrado para  la/s fotografía/s </strong>(o rollo <u>únicamente para los casos que no exista sobre  para el tamaño de la fotografía presentada</u>)<strong>.</strong> En el frente de cada sobre, en letra grande y legible, deberá  escribirse: &ldquo;XV Concurso Fotográfico Gente de mi Ciudad&rdquo; y el N° de  participación asignado.</p>
-                  <p align="justify"><strong>19.</strong> Las obras  no deben llevar en su frente ninguna inscripción. Al dorso de cada foto deberá  figurar en una etiqueta <strong>el N° de  participación asignado en la 1° instancia, el título de la obra, si lo tuviera,  y lugar y fecha aproximada de la toma.</strong> En el soporte digital, los mismos  datos escritos fuera y en un archivo copiado dentro del cd.</p>
-                  <p align="justify"><strong>20.</strong> Además de  las fotografías impresas, los participantes deben entregar copia del mail de  notificación consignado en el punto 15, el cual funcionará como constancia  suficiente y única de que la/s obra/s han sido entregadas.</p>
-                  <p align="justify"><strong>21.</strong> No se  admitirán fotografías pegadas sobre diferentes soportes.  </p>
-                  <p align="justify"><strong>22.</strong> Las obras  que no cumplan con estos requisitos no serán juzgadas, quedando automáticamente  fuera del concurso.</p>
-                  <p align="justify"><strong><u>23. CALENDARIO DEL CONCURSO</u></strong><strong> </strong></p>
-                  <p align="justify"><strong>Ingreso de las obras vía web: </strong>15 de mayo  al 30 de junio de 2014<strong></strong><br>
-                    <strong>Preselección de las obras (1° Instancia): </strong>del 1 al 10  de julio de 2014<strong></strong><br>
-                    <strong>Notificación de los resultados de las obras  preseleccionadas: </strong>15 de julio de 2014<br>
-                    <strong>Entrega de fotos preseleccionadas (en papel y  soporte digital): </strong>del 21 de julio al 8 de agosto de 2014<br>
-                    <strong>Juzgamiento final de las obras preseleccionadas (2°  Instancia): </strong>jueves 14 de agosto de 2014<br>
-                    <strong>Votación Mención &ldquo;Gente de mi Ciudad&rdquo;:</strong> del 20 al  31 de agosto de 2014<br>
-                    <strong>Notificación de los Resultados Finales: </strong>9 de  septiembre de 2014<br>
-                    <strong>Exposición de las obras:</strong> desde el 02 de diciembre al 02  de febrero de 2015 inclusive <strong>Entrega de  premios:</strong> 05 de diciembre de 2014<br>
-                  <strong>Devolución de las obras no seleccionadas:</strong> del 6 al 31  de enero de 2015 inclusive.</p>
-                  <p align="justify"><strong>24. </strong>Las obras  preseleccionadas deberán ser entregadas personalmente o por terceros en  Sarmiento 611, piso 6º, Capital Federal, de lunes a viernes de 10 a 17 hs. en  las fechas indicadas en el calendario.</p>
-                  <p align="justify"><strong>25. </strong>Las obras preseleccionadas que  hayan sido presentadas en papel y que no resulten ganadoras, se podrán retirar  en Sarmiento 611, 6º piso de esta Capital, según cronograma, de lunes a viernes  en el horario de 10.00 a 17.00; en el caso de las obras que solo fueron  cargadas en vía web, luego de los plazo establecidos según cronograma se darán  de baja del servidor de carga. La entidad organizadora tratará con el máximo  cuidado las obras recibidas, declinando toda responsabilidad de cualquier  extravío o accidente fortuito que se pudiera producir. </p>
-                  <p align="justify"><strong>26.</strong> Los  resultados finales serán comunicados a los ganadores el día 9 de septiembre de  2014 telefónicamente. Sólo se tomará contacto con aquellos que hayan obtenido  premios, menciones especiales y menciones. De igual manera serán publicados en  la página web del Banco Ciudad  <a href="http://www.bancociudad.com.ar" target="_blank">www.bancociudad.com.ar</a> a partir del 9 de septiembre.</p>
-                  <p align="justify"><strong>27.</strong> El Banco  Ciudad como entidad organizadora tendrá el máximo cuidado en la conservación de  las obras, pero no se hará responsable por pérdidas o daños sufridos durante la  exhibición, traslado y manipulación de las mismas, así como durante cualquier  otra etapa del concurso (según apartado &ldquo;Modo de Presentación&rdquo;). Asimismo se  reserva el derecho de resolver en forma inapelable cualquier situación no  prevista en este reglamento. El simple hecho de participar en este concurso  implica el conocimiento y aceptación de estas bases y de las modificaciones que  pudiera realizar el Banco Ciudad respecto de las mismas.</p>
-                  <p align="justify"><strong>28.</strong> El Banco  Ciudad se exime expresamente de toda responsabilidad causada por cualquier daño  o perjuicio sufrido o causado por el participante.</p>
-                  <p align="justify"><strong>29.</strong> Para hacer  efectivos los premios, las/os ganadores/as deberán tener (o abrir) una cuenta  en el Banco Ciudad.</p>
-                  <p align="justify">Coordinación General:           Secretaría  de Relaciones Públicas.<br>
-                    Proyectos Institucionales<br>
-                    <br>
-                Para mayor información: concurso@bancociudad.com.ar  o  <a href="http://www.bancociudad.com.ar/" target="_blank">www.bancociudad.com.ar</a></p></td>
-              </tr>
-          </table></td>
-        </tr>
-        <tr>
-          <td width="202"><a href="/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','/assets/imagenes/concurso2.png',1)"><img src="/assets/imagenes/concurso1.png" alt="" width="184" height="31" id="Image1"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/como-participar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','/assets/imagenes/comoparticipar2.png',1)"><img src="/assets/imagenes/comoparticipar1.png" alt="" width="184" height="31" id="Image5" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/usuarios/registrar/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','/assets/imagenes/registrate2.png',1)"><img src="/assets/imagenes/registrate1.png" alt="" width="184" height="31" id="Image8" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/usuarios/login/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','/assets/imagenes//ingresar2.png',1)"><img src="/assets/imagenes/ingresar1.png" alt="" width="184" height="31" id="Image9" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/bases_y_condiciones/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','/assets/imagenes/bases2.png',1)"><img src="/assets/imagenes/bases1.png" alt="" width="184" height="31" id="Image10"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/premios/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','/assets/imagenes/premios2.png',1)"><img src="/assets/imagenes/premios1.png" alt="" width="184" height="31" id="Image7" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/jurado/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','/assets/imagenes/eljurado2.png',1)"><img src="/assets/imagenes/eljurado1.png" alt="" width="184" height="31" id="Image6" border="0"></a></td>
-        </tr>
-      <tr>
-        <td><a href="/ediciones_anteriores/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','/assets/imagenes/concursosanteriores2.png',1)"><img src="/assets/imagenes/concursosanteriores1.png" alt="" width="184" height="31" id="Image4" border="0"></a></td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-        </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td><div align="center"></div></td>
-      </tr>
-    </table></td>
-  </tr>
-  <tr>
-    <td bgcolor="#34499E"><img src="/assets/imagenes/footer.jpg" width="950" height="60"  alt=""/></td>
-  </tr>
-</table>
+<body class="home boxed shadow p05"><div class="root">
+	<header class="h3">
+		<section class="top">
+		  <div>
+		    <nav>
+		      <ul>
+		        <li><a href="/usuarios/login/">INGRESAR</a></li>
+		        <li><a href="/usuarios/registrar/">REGISTRATE</a></li>
+	          </ul>
+	        </nav>
+	      </div>
+		</section>
+		<section class="main-header">
+                    <p class="title"><a href="./"><img src="/assets/images/temp/logo.png" alt="MultiPurpose" width="219" height="35"></a> <span>Ultra Customizable Template</span></p>
+			<nav class="social">
+				<ul>
+					<li></li>
+				</ul>
+			</nav>
+			<nav class="mainmenu">
+			  <ul>
+			    <li><a href="/">Inicio</a></li>
+			    <li class="current-menu-item"><a href="/bases-y-condiciones/">Bases y condiciones</a></li>
+			    <li ><a href="/jurado/">El jurado</a></li>
+			    <li ><a href="/premios/">Premios</a></li>
+			    <li><a href="/dibujos-participantes/">Dibujos participantes</a></li>
+		      </ul>
+		  </nav>
+			<div class="clear"></div>
+		</section>
+	</header>
+	<section class="content">
+      <div class="col1">
+      	 	<h2><span>Bases y condiciones</span></h2>
+   	 	<p><h6> Art. 1) <strong>ORGANIZADOR</strong>: La Fundación Banco de la Ciudad de Buenos Aires organiza esta edición 2014 del Concurso de Dibujo homónimo, conmemorando el centario del nacimiento de Aníbal Troilo y de Julio Cortázar. Lo hace con la asistencia de la Fundación Artes Visuales. </h6>
+   	 	<h6>Art.2) <strong>DIBUJO</strong>: Cada participante concursa con un solo dibujo (blanco y negro, o color) de 35 x 50 cms. ó 50x70 cms. sobre papel blanco. La temática de la obra será la figura de Troilo, la de Cortázar, y/o personajes y/o circunstancias de sus obras (en el caso de Troilo, de las letras de tangos de su autoría). Cada dibujo deberá ser inédito, contener un título y una breve descripción explicando a qué hace referencia. </h6>
+   	 	<h6>Art.3) <strong>PARTICIPANTES</strong>: ilustradores (profesionales o aficionados) argentinos nativos, naturalizados o extranjeros con al menos 5 años de residencia en el país, a partir de 14 años de edad cumplidos al momento de presentar su dibujo. No podrán participar en este concurso personal de la Fundación Artes Visuales, ni de la Fundación Banco Ciudad, ni sus familiares hasta segundo grado de parentesco. </h6>
+   	 	<h6>Art.4) <strong>INSCRIPCION GRATUITA</strong>: se deberá ingresar el dibujo, en esta 1era. instancia vía web http://www.premiodibujofundaciónbancociudad.com.ar , presentando una imagen digitalizada del original en formato jpg, en 72 dpi de resolución, con un tamaño no mayor de 1600 x 1200 pixeles y con un peso que no supere los 2 MegaBytes. Finalizada la suba del archivo, y aceptados todos los términos y condiciones, cada inscripto recibirá una notificación vía mail con su número de participación. El sistema impedirá la carga de aquellas imágenes que no cumplan con todos los parámetros antes mencionados. </h6>
+   	 	<h6>Art.5) <strong>REMISION DEL DIBUJO EN 2DA.INSTANCIA</strong>: los dibujos preseleccionados se presentarán (¿cómo? Convenio con OCA) en original en Sarmiento 630 piso 12 al frente, de 13 a 17hs, en un sobre cerrado, en cuyo frente figure, en letra grande y legible, “Premio de Dibujo Fundación Banco Ciudad, edición 2014 Troilo/Cortázar”, y el número de participación asignado que suministre el sistema. El dibujo no deberá llevar ninguna inscripción en el frente. A su dorso deberá figurar en una etiqueta adhesiva adherida el número de participación asignado, el título de la obra y una breve explicación de lo que la obra describe (la persona o qué obra precisa del artista homenajeado en cuestión). También debe incluirse un cd conteniendo el soporte digital que se remitió en la 1era. Instancia, identificado el cd, sobre su propia superficie, con número de participación y título de la obra. El sobre también deberá contener copia del mail de notificación recibido por el participante donde se le informó que fue preseleccionado, como constancia de participación. Es decir, que el sobre contendrá el dibujo, el cd y la copia del mail de notificación. A cambio de la recepción del sobre, se entregará un recibo (¿?) Las obras recibidas serán custodiadas con máxima diligencia hasta su devolución, si correspondiere; sin embargo, la Fundación declina cualquier extravío, deterioro, rotura, robo, hurto o accidente que se pudiera producir.</h6>
+   	 	<h6> Art.6) <strong>CALENDARIO DEL CONCURSO</strong>: 
+   	 	  Ingreso de los dibujos vía web: 7/9/2014 al 6/10/2014.
+   	 	  Preselección: hasta el 13/10/2014.
+   	 	  Notificación de preselección: 15/10/2014 mediante e-mail y publicación en la página del concurso.
+   	 	  Entrega de fotos preseleccionadas: 16/10/2014 al 30/10/2014.
+   	 	  Juicio final de premios: 10/11/2014.
+   	 	  Notificación de los resultados: 15/11/2014 vía telefónica.
+   	 	  Entrega de premios y exposición: entre el 20/11/2014 y 20/12/2014.
+   	 	  Devolución de las obras no seleccionadas: durante diciembre 2014, en el mismo lugar y horario de su entrega original. </h6>
+   	 	<h6>Art.7) <strong>PREMIOS</strong>: Hay dos categorías. En categoría Mayores participarán aquellos inscriptos de 18 años o mayores al momento de presentar su dibujo en 1era instancia, compitiendo por un primer premio de $ 25.000, un segundo premio de $ 10.000, un tercer premio de $ 5.000 y 5 premios subsiguientes de $ 2.000. En categoría Menores participarán aquellos residentes con 14, 15, 16 y 17 años al momento de presentar su dibujo en 1era. instancia. Para tal categoría habrá 5 becas para concurrir durante 2015, los sábados por la tarde durante 10 meses al taller de dibujo de la Fundación Artes Visuales.   Para hacer efectivos los premios monetarios, cada ganador deberá tener una cuenta corriente o de caja de ahorro en el Banco Ciudad de Buenos Aires. El concurso podrá declararse parcial o totalmente desierto. Todas las obras premiadas pasarán a ser propiedad de la Fundación Banco Ciudad, la que podrá disponer de las mismas para ser donadas o vendidas en subasta con fines benéficos. 	    </h6>
+   	 	<h6>Art.8)<strong> JURADO</strong>: estará integrado por los artistas Hermenegildo Sábat, Elba Pérez y Carlos Panicelli. (nombre completo y descripción profesional) Su fallo es por mayoría, e inapelable. Además sus decisiones son confidenciales, y por lo tanto no brindará explicaciones verbales o escritas con respecto a las mismas. En caso de renuncia o ausencia de alguno de sus integrantes, la Fundación Artes Visuales queda facultada para designar reemplazante. </h6>
+   	 	<h6>Art.9)<strong> EXPOSICION</strong>: las obras premiadas participarán de una exposición a realizarse durante noviembre/diciembre 2014. Para tal fin la Fundación Banco Ciudad  podrá hacerlas montar sobre un soporte adecuado (cuadro con vidrio antireflex, bastidor, etc). Todas las obras de los inscriptos podrán mantenerse en exposición virtual en la web de la Fundación Banco Ciudad y/o del Banco. </h6>
+   	 	<h6>Art.10) <strong>COPYRIGHT</strong>: el copyright será propiedad del artista, sin embargo la Fundación Banco Ciudad podrá hacer uso no exclusivo, en cualquier medio y en cualquier momento, de las imágenes remitidas al certamen, con fines de promoción y divulgación del mismo, antes o después de su finalización. No sólo directamente, sino a través de la repetición que de dicha difusión puedan hacer a su vez otros sitios virtuales. Todos los participantes aceptan el uso de su dibujo y nombre en cualquier publicidad promocional sin que medie compensación económica. Además, como se estableció en artículo 7, los ganadores de ambas categorías (hasta 8 premiados en Mayores y hasta 5 en Menores) ceden la propiedad de su dibujo a la Fundación Banco Ciudad a cambio de su premio, el que se considera automáticamente aceptado al serle notificado. (está ok? Puede rechazar el premio para mantener su propiedad porque de golpe se volvió hiper valiosa?). Por lo tanto sus obras podrán ser utilizadas en las actividades y proyectos de promoción cultural, a través de reproducción, impresión, publicación, exposición y toda otra difusión que la Fundación Banco Ciudad considere oportuno, sin que esto implique retribución económica alguna. No obstante los autores conservan sus Derechos de Propiedad Intelectual de acuerdo a la Ley 11.723 y se responsabilizan del cumplimiento de las disposiciones legales en materia de dicha ley y del derecho a la propia imagen, siendo responsables porque la difusión, reproducción o edición de la obra en el marco del presente concurso no lesione derecho alguno de terceros.
+   	 	  Art.10) La Fundación Banco Ciudad se reserva el derecho de resolver de forma inapelable cualquier situación no prevista en este reglamento. El simple hecho de participar en este concurso implica el conocimiento y aceptación de estas bases y de las modificaciones que pudiera realizar su Organizador.
+   	 	  </p>
+ 	    </h7>
+        </div>
+</section>
+
+	<footer>
+	  <section class="bottom">
+		  <p align="right">Desarrolado por<a href="http://www.eclypsedesign.com" target="_blank"> Eclypse | Cloud Web Services</a></p>
+			<nav class="social"></nav>
+	  </section>
+  </footer></div>
+
+    <script type="text/javascript" src="/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="/assets/js/scripts.js"></script>
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="js/ie.js"></script>
+	<![endif]-->
 </body>
+
 </html>

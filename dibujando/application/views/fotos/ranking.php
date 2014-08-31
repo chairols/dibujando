@@ -27,7 +27,7 @@
 	      </div>
 		</section>
 		<section class="main-header">
-                    <p class="title"><a href="/"><img src="/assets/admin/images/temp/logo.png" alt="MultiPurpose" width="219" height="35"></a> <span>Ultra Customizable Template</span></p>
+                    <p class="title"><a href="./"><img src="/assets/admin/images/temp/logo.png" alt="MultiPurpose" width="219" height="35"></a> <span>Ultra Customizable Template</span></p>
 			<nav class="social">
 				<ul>
 					<li></li>
@@ -35,9 +35,9 @@
 			</nav>
 			<nav class="mainmenu">
 			  <ul>
-			    <li class="current-menu-item"><a href="/fotos/aprobadas/1/">Aprobados</a></li>
-			    <li><a href="/fotos/no-aprobadas/1/">No Aprobados</a></li>
-			    <li ><a href="/fotos/ranking/">Ranking</a></li>
+			    <li ><a href="/fotos/aprobadas/1/">Aprobados</a></li>
+			    <li ><a href="/fotos/no-aprobadas/1/">No Aprobados</a></li>
+			    <li class="current-menu-item"><a href="/fotos/ranking/">Ranking</a></li>
 			  </ul>
 		  </nav>
 			<div class="clear"></div>
@@ -46,8 +46,8 @@
 
 
 	<section class="content">
-        <section class="columns portfolio">
-	    <h2><span>Dibujos Aprobados</span></h2>
+<section class="columns portfolio">
+	    <h2><span>Puntajes otorgados</span></h2>
 	    <div class="filters">
 	      <p>Mostrar:</p>
 	      <ul>
@@ -56,7 +56,7 @@
 	        <li><a href="#video">Menores</a></li>
           </ul>
         </div>
-      <article id="all" class="col4 website">
+      <article class="col4 website">
           <div class="img"><img src="/assets/admin/images/temp/12.jpg" alt="">
            <div>
 	          <ul>
@@ -64,13 +64,10 @@
               </ul>
               
             </div>
-          </div><br>
+          </div>
 
-          <p align="center" class="submit">
- 	        <button type="submit" name="submit" value="1">No Aprobar</button>
-          </p>
+          <p align="center"><br>Puntaje: </p>
         </article>
-            
 	  </section>
   </section>
 

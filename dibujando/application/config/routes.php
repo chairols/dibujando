@@ -46,6 +46,7 @@ $route['bases-y-condiciones'] = 'bases_y_condiciones/index';
 $route['ediciones-anteriores'] = 'ediciones_anteriores/index';
 $route['fotos/no-aprobadas/(:num)'] = 'fotos/no_aprobadas/$1';
 $route['usuarios/registro-colectivo'] = 'usuarios/registro_colectivo';
+$route['dibujos-participantes'] = 'dibujos_participantes/index';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
